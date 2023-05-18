@@ -11,8 +11,4 @@ name = input("What's your name? ")
 greet_user(name)
 
 
-# SALAH
-
-# Note:
-# - Fungsi harus ada parameter 
-# - Write a function called greet_user that takes in one parameter, a person's name (a string)
+# 90%
