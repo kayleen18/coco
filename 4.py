@@ -11,4 +11,4 @@ def power (base, exp=2):
 pow = power(10)
 print(pow)
 
-# BENAR
+# 100%

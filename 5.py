@@ -10,4 +10,4 @@ def arbitrary(*args):
 result = arbitrary(-1,22,33,41,-6)
 print(result)
 
-# BENAR
+# 100%
