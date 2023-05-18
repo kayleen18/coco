@@ -4,12 +4,11 @@ out a greeting message. For example, if the parameter is "Alice",
 the function should print "Hello, Alice!".'''
 
 
-def greet_user():
-    name = input("What's your name? ")
+def greet_user(name):
     print('Hello,', name + '!')
 
-
-greet_user()
+name = input("What's your name? ")
+greet_user(name)
 
 
 # SALAH
