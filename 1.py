@@ -10,3 +10,10 @@ def greet_user():
 
 
 greet_user()
+
+
+# SALAH
+
+# Note:
+# - Fungsi harus ada parameter 
+# - Write a function called greet_user that takes in one parameter, a person's name (a string)

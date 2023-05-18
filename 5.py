@@ -7,5 +7,7 @@ def arbitrary(*args):
     total = sum(args)
     return total
 
-result = arbitrary(1,2,3,4,6)
+result = arbitrary(-1,22,33,41,-6)
 print(result)
+
+# BENAR

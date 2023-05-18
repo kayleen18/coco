@@ -6,5 +6,7 @@ def calculate_average(num1, num2, num3):
     return (num1 + num2 + num3)/3
 
 
-result = calculate_average(1,2,3)
+result = calculate_average(9999999999,2,3)
 print(result)
+
+# BENAR
